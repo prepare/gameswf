@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild
+END
+res.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/tu-testbed/code/!svn/ver/1689/trunk/tu-testbed/dumbuild/res.h
+END
+file_deps.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1599/trunk/tu-testbed/dumbuild/file_deps.h
+END
+path.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/path.h
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1595/trunk/tu-testbed/dumbuild/sha1.h
+END
+bootstrap.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/bootstrap.sh
+END
+dumbuild.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/dumbuild.cpp
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1675/trunk/tu-testbed/dumbuild/config.h
+END
+object.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/object.h
+END
+external_lib_target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/external_lib_target.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1687/trunk/tu-testbed/dumbuild/test.cpp
+END
+hash_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1599/trunk/tu-testbed/dumbuild/hash_util.cpp
+END
+lib_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/dumbuild/lib_target.h
+END
+dmb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/tu-testbed/code/!svn/ver/1676/trunk/tu-testbed/dumbuild/dmb
+END
+generic_target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/generic_target.cpp
+END
+object_store.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1596/trunk/tu-testbed/dumbuild/object_store.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1687/trunk/tu-testbed/dumbuild/util.h
+END
+context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/context.cpp
+END
+dmb.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/1595/trunk/tu-testbed/dumbuild/dmb.bat
+END
+os.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/1687/trunk/tu-testbed/dumbuild/os.h
+END
+target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/dumbuild/target.cpp
+END
+eval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/eval.cpp
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/dumbuild/hash.h
+END
+res.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/res.cpp
+END
+file_deps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/file_deps.cpp
+END
+compile_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1599/trunk/tu-testbed/dumbuild/compile_util.h
+END
+dmb_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1598/trunk/tu-testbed/dumbuild/dmb_types.h
+END
+exe_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/exe_target.h
+END
+path.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/path.cpp
+END
+sha1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1595/trunk/tu-testbed/dumbuild/sha1.cpp
+END
+bootstrap.bat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/bootstrap.bat
+END
+root.dmb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/root.dmb
+END
+config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/1675/trunk/tu-testbed/dumbuild/config.cpp
+END
+object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/object.cpp
+END
+lib_target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/lib_target.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/util.cpp
+END
+build.dmb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/build.dmb
+END
+os.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/os.cpp
+END
+hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/dumbuild/hash.cpp
+END
+external_lib_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/dumbuild/external_lib_target.h
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1687/trunk/tu-testbed/dumbuild/test.h
+END
+hash_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1596/trunk/tu-testbed/dumbuild/hash_util.h
+END
+compile_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/dumbuild/compile_util.cpp
+END
+generic_target.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/generic_target.h
+END
+exe_target.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/dumbuild/exe_target.cpp
+END
+object_store.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1596/trunk/tu-testbed/dumbuild/object_store.h
+END
+context.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tu-testbed/code/!svn/ver/1687/trunk/tu-testbed/dumbuild/context.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/1689/trunk/tu-testbed/dumbuild/README.txt
+END
+target.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/dumbuild/target.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1672/trunk/tu-testbed/dumbuild/eval.h
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/tu-testbed/code/!svn/ver/1714/trunk/tu-testbed/fonts
+END
+make_font_images.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/610/trunk/tu-testbed/fonts/make_font_images.py
+END
+make_font_pdfs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/make_font_pdfs.sh
+END
+Tuffy_Bold.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/Tuffy_Bold.ttf
+END
+Tuffy.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/Tuffy.ttf
+END
+tuffy_regular.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1707/trunk/tu-testbed/fonts/tuffy_regular.sfd
+END
+didont.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/1714/trunk/tu-testbed/fonts/didont.sfd
+END
+tuffy_italic.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/tuffy_italic.sfd
+END
+tuffy_bold_italic.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/tuffy_bold_italic.sfd
+END
+LICENSE-OFL-Didont.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1714/trunk/tu-testbed/fonts/LICENSE-OFL-Didont.txt
+END
+serific.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1619/trunk/tu-testbed/fonts/serific.sfd
+END
+make_italic_and_generate_fonts.fontforge
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/tu-testbed/code/!svn/ver/1709/trunk/tu-testbed/fonts/make_italic_and_generate_fonts.fontforge
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1699/trunk/tu-testbed/fonts/LICENSE.txt
+END
+tuffy_bold.sfd
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/tuffy_bold.sfd
+END
+make_font_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1697/trunk/tu-testbed/fonts/make_font_archive.sh
+END
+make_didont_font_archive.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/tu-testbed/code/!svn/ver/1714/trunk/tu-testbed/fonts/make_didont_font_archive.sh
+END
+Tuffy_Italic.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/Tuffy_Italic.ttf
+END
+Tuffy_Bold_Italic.ttf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1708/trunk/tu-testbed/fonts/Tuffy_Bold_Italic.ttf
+END

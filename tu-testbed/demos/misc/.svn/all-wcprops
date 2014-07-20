@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/tu-testbed/code/!svn/ver/748/trunk/tu-testbed/demos/misc
+END
+typedef_tricks.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/748/trunk/tu-testbed/demos/misc/typedef_tricks.cpp
+END
+quad_distance_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tu-testbed/code/!svn/ver/621/trunk/tu-testbed/demos/misc/quad_distance_test.cpp
+END
+dll_test_import.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/dll_test_import.cpp
+END
+float_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/603/trunk/tu-testbed/demos/misc/float_test.cpp
+END
+lattice_resistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/lattice_resistance.cpp
+END
+cal.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/467/trunk/tu-testbed/demos/misc/cal.pl
+END
+compiler_bug1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/compiler_bug1.cpp
+END
+calendar.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/655/trunk/tu-testbed/demos/misc/calendar.cpp
+END
+overload_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/overload_test.cpp
+END
+dll_test_export.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/dll_test_export.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tu-testbed/code/!svn/ver/621/trunk/tu-testbed/demos/misc/Makefile
+END
+count_ones.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/count_ones.cpp
+END
+scope_experiments.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/scope_experiments.cpp
+END
+template1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/745/trunk/tu-testbed/demos/misc/template1.cpp
+END

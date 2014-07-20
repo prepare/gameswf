@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/tu-testbed/code/!svn/ver/242/trunk/tu-testbed/luaSDL
+END
+SDL.pkg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/236/trunk/tu-testbed/luaSDL/SDL.pkg
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/236/trunk/tu-testbed/luaSDL/README.txt
+END
+config.mak
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/237/trunk/tu-testbed/luaSDL/config.mak
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/tu-testbed/code/!svn/ver/241/trunk/tu-testbed/luaSDL/Makefile
+END

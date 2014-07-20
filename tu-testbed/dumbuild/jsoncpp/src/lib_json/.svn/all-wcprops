@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_valueiterator.inl
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_batchallocator.h
+END
+lib_json.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/lib_json.vcproj
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_internalmap.inl
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/tu-testbed/code/!svn/ver/1672/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_internalarray.inl
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_value.cpp
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_writer.cpp
+END
+sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/sconscript
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/tu-testbed/code/!svn/ver/1692/trunk/tu-testbed/dumbuild/jsoncpp/src/lib_json/json_reader.cpp
+END

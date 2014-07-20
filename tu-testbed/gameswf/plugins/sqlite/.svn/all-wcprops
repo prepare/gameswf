@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/sqlite
+END
+test.fla
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1624/trunk/tu-testbed/gameswf/plugins/sqlite/test.fla
+END
+sqlite_db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/sqlite/sqlite_db.cpp
+END
+sqlite_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/sqlite/sqlite_table.cpp
+END
+sqlite_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/sqlite/sqlite_db.h
+END
+test.swf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1624/trunk/tu-testbed/gameswf/plugins/sqlite/test.swf
+END
+sqlite_table.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/sqlite/sqlite_table.h
+END

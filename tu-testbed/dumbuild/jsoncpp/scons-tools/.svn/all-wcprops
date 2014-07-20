@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools
+END
+srcdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools/srcdist.py
+END
+doxygen.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools/doxygen.py
+END
+glob.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools/glob.py
+END
+substinfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools/substinfile.py
+END
+targz.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/tu-testbed/code/!svn/ver/1549/trunk/tu-testbed/dumbuild/jsoncpp/scons-tools/targz.py
+END

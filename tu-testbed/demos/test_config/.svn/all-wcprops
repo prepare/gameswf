@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/177/trunk/tu-testbed/demos/test_config
+END
+init.lua
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/44/trunk/tu-testbed/demos/test_config/init.lua
+END
+property.lua
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/44/trunk/tu-testbed/demos/test_config/property.lua
+END
+SDL.tolua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/177/trunk/tu-testbed/demos/test_config/SDL.tolua
+END
+test_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tu-testbed/code/!svn/ver/177/trunk/tu-testbed/demos/test_config/test_config.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/119/trunk/tu-testbed/demos/test_config/Makefile
+END

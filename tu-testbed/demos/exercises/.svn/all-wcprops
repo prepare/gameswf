@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/tu-testbed/code/!svn/ver/314/trunk/tu-testbed/demos/exercises
+END
+solver_one_variable.lua
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tu-testbed/code/!svn/ver/314/trunk/tu-testbed/demos/exercises/solver_one_variable.lua
+END
+newton.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/313/trunk/tu-testbed/demos/exercises/newton.lua
+END
+convergence.lua
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tu-testbed/code/!svn/ver/313/trunk/tu-testbed/demos/exercises/convergence.lua
+END

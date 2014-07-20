@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/1643/trunk/tu-testbed/net/win32/VC8
+END
+test_client.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tu-testbed/code/!svn/ver/1643/trunk/tu-testbed/net/win32/VC8/test_client.vcproj
+END
+net_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1633/trunk/tu-testbed/net/win32/VC8/net_test.vcproj
+END

@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 52
+*.bt
+*.png
+*.zip
+*.gz
+*.jpg
+*.tqt
+*.chu
+*.dll
+crater
+END

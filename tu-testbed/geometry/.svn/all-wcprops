@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/tu-testbed/code/!svn/ver/1475/trunk/tu-testbed/geometry
+END
+cull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/384/trunk/tu-testbed/geometry/cull.cpp
+END
+geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/geometry.h
+END
+collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/collision.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/737/trunk/tu-testbed/geometry/Makefile.in
+END
+cull.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/tu-testbed/code/!svn/ver/750/trunk/tu-testbed/geometry/cull.h
+END
+axial_box.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/570/trunk/tu-testbed/geometry/axial_box.cpp
+END
+tqt.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/379/trunk/tu-testbed/geometry/tqt.cpp
+END
+visual.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/375/trunk/tu-testbed/geometry/visual.h
+END
+axial_box.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tu-testbed/code/!svn/ver/570/trunk/tu-testbed/geometry/axial_box.h
+END
+tqt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/tu-testbed/code/!svn/ver/1475/trunk/tu-testbed/geometry/tqt.h
+END
+view_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/375/trunk/tu-testbed/geometry/view_state.h
+END
+kd_tree_dynamic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/707/trunk/tu-testbed/geometry/kd_tree_dynamic.cpp
+END
+loose_octree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/379/trunk/tu-testbed/geometry/loose_octree.cpp
+END
+kd_tree_packed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/707/trunk/tu-testbed/geometry/kd_tree_packed.cpp
+END
+bsp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/735/trunk/tu-testbed/geometry/bsp.cpp
+END
+kd_tree_dynamic.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/570/trunk/tu-testbed/geometry/kd_tree_dynamic.h
+END
+kd_tree_packed.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/kd_tree_packed.h
+END
+bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/379/trunk/tu-testbed/geometry/bsp.h
+END
+geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/geometry.cpp
+END
+collision.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/collision.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/568/trunk/tu-testbed/geometry/Makefile
+END

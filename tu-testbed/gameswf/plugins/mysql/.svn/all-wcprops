@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/mysql
+END
+test_mysql.swf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1255/trunk/tu-testbed/gameswf/plugins/mysql/test_mysql.swf
+END
+test_mysql.fla
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1255/trunk/tu-testbed/gameswf/plugins/mysql/test_mysql.fla
+END
+db.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/mysql/db.cpp
+END
+table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/mysql/table.cpp
+END
+db.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/mysql/db.h
+END
+table.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1632/trunk/tu-testbed/gameswf/plugins/mysql/table.h
+END

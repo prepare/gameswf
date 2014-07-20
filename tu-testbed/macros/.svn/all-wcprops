@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/tu-testbed/code/!svn/ver/738/trunk/tu-testbed/macros
+END
+zlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/657/trunk/tu-testbed/macros/zlib.m4
+END
+sdl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/tu-testbed/code/!svn/ver/738/trunk/tu-testbed/macros/sdl.m4
+END
+opengl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/657/trunk/tu-testbed/macros/opengl.m4
+END
+png.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/tu-testbed/code/!svn/ver/738/trunk/tu-testbed/macros/png.m4
+END
+jpeg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/657/trunk/tu-testbed/macros/jpeg.m4
+END
+libXML.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/673/trunk/tu-testbed/macros/libXML.m4
+END
+libexe.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tu-testbed/code/!svn/ver/667/trunk/tu-testbed/macros/libexe.m4
+END

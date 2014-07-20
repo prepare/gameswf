@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tu-testbed/code/!svn/ver/1055/trunk/tu-testbed/gameswf/tests
+END
+test_delete_references.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/1055/trunk/tu-testbed/gameswf/tests/test_delete_references.txt
+END
+test_motion_exec_order.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/1018/trunk/tu-testbed/gameswf/tests/test_motion_exec_order.txt
+END
+test_basic_types.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/test_basic_types.txt
+END
+test_string.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1023/trunk/tu-testbed/gameswf/tests/test_string.txt
+END
+TestFunction2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/TestFunction2.txt
+END
+test_action_order2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/test_action_order2.txt
+END
+test_forin_array.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/test_forin_array.txt
+END
+frame1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1018/trunk/tu-testbed/gameswf/tests/frame1.txt
+END
+test_undefined_v6.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tu-testbed/code/!svn/ver/1055/trunk/tu-testbed/gameswf/tests/test_undefined_v6.txt
+END
+frame2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1018/trunk/tu-testbed/gameswf/tests/frame2.txt
+END
+test_ASSetPropFlags.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/test_ASSetPropFlags.txt
+END
+test_currentframe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tu-testbed/code/!svn/ver/1016/trunk/tu-testbed/gameswf/tests/test_currentframe.txt
+END
+test_undefined_v7.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tu-testbed/code/!svn/ver/1014/trunk/tu-testbed/gameswf/tests/test_undefined_v7.txt
+END

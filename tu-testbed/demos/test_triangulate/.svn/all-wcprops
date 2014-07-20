@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1497/trunk/tu-testbed/demos/test_triangulate
+END
+test_triangulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/tu-testbed/code/!svn/ver/1497/trunk/tu-testbed/demos/test_triangulate/test_triangulate.cpp
+END
+parse_bdm.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tu-testbed/code/!svn/ver/1044/trunk/tu-testbed/demos/test_triangulate/parse_bdm.h
+END
+generic_test_triangulate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/tu-testbed/code/!svn/ver/1044/trunk/tu-testbed/demos/test_triangulate/generic_test_triangulate.cpp
+END
+test_shape_high.txt
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/tu-testbed/code/!svn/ver/655/trunk/tu-testbed/demos/test_triangulate/test_shape_high.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1044/trunk/tu-testbed/demos/test_triangulate/Makefile
+END
+parse_bdm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tu-testbed/code/!svn/ver/1044/trunk/tu-testbed/demos/test_triangulate/parse_bdm.cpp
+END
+test_shape_low.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/794/trunk/tu-testbed/demos/test_triangulate/test_shape_low.txt
+END

@@ -1,0 +1,599 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/gameswf
+END
+gameswf_log.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1073/trunk/tu-testbed/gameswf/gameswf_log.h
+END
+gameswf_freetype.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1654/trunk/tu-testbed/gameswf/gameswf_freetype.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tu-testbed/code/!svn/ver/737/trunk/tu-testbed/gameswf/Makefile.in
+END
+gameswf_as_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_as_sprite.cpp
+END
+gameswf_tesselate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1604/trunk/tu-testbed/gameswf/gameswf_tesselate.cpp
+END
+gameswf_listener.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1615/trunk/tu-testbed/gameswf/gameswf_listener.h
+END
+gameswf_abc.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1542/trunk/tu-testbed/gameswf/gameswf_abc.h
+END
+gameswf_jit.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tu-testbed/code/!svn/ver/1456/trunk/tu-testbed/gameswf/gameswf_jit.h
+END
+astylerc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/1618/trunk/tu-testbed/gameswf/astylerc
+END
+gameswf_sound_handler_sdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tu-testbed/code/!svn/ver/1640/trunk/tu-testbed/gameswf/gameswf_sound_handler_sdl.h
+END
+gameswf_tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/971/trunk/tu-testbed/gameswf/gameswf_tools.cpp
+END
+gameswf_environment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/tu-testbed/code/!svn/ver/1645/trunk/tu-testbed/gameswf/gameswf_environment.cpp
+END
+gameswf_sprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1686/trunk/tu-testbed/gameswf/gameswf_sprite.cpp
+END
+gameswf_mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1652/trunk/tu-testbed/gameswf/gameswf_mutex.h
+END
+gameswf_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_types.h
+END
+NOTES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/761/trunk/tu-testbed/gameswf/NOTES.txt
+END
+gameswf_render_handler_xbox.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tu-testbed/code/!svn/ver/971/trunk/tu-testbed/gameswf/gameswf_render_handler_xbox.cpp
+END
+gameswf_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1690/trunk/tu-testbed/gameswf/gameswf_value.cpp
+END
+gameswf_test_ogl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/gameswf/gameswf_test_ogl.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tu-testbed/code/!svn/ver/1581/trunk/tu-testbed/gameswf/Makefile
+END
+.cvsignore
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/487/trunk/tu-testbed/gameswf/.cvsignore
+END
+gameswf_styles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_styles.cpp
+END
+gameswf_jit_opcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1456/trunk/tu-testbed/gameswf/gameswf_jit_opcode.h
+END
+gameswf_function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1502/trunk/tu-testbed/gameswf/gameswf_function.cpp
+END
+gameswf.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1657/trunk/tu-testbed/gameswf/gameswf.h
+END
+gameswf_jit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1586/trunk/tu-testbed/gameswf/gameswf_jit.cpp
+END
+gameswf_root.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1683/trunk/tu-testbed/gameswf/gameswf_root.h
+END
+gameswf_sound_handler_openal.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/gameswf/gameswf_sound_handler_openal.h
+END
+gameswf_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1433/trunk/tu-testbed/gameswf/gameswf_stream.cpp
+END
+gameswf_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1432/trunk/tu-testbed/gameswf/gameswf_sound.h
+END
+gameswf_movie_def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1655/trunk/tu-testbed/gameswf/gameswf_movie_def.cpp
+END
+gameswf_fontlib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1665/trunk/tu-testbed/gameswf/gameswf_fontlib.cpp
+END
+gameswf_as_sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1523/trunk/tu-testbed/gameswf/gameswf_as_sprite.h
+END
+gameswf_tesselate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1195/trunk/tu-testbed/gameswf/gameswf_tesselate.h
+END
+gameswf_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1681/trunk/tu-testbed/gameswf/gameswf_impl.cpp
+END
+gameswf_mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1639/trunk/tu-testbed/gameswf/gameswf_mutex.cpp
+END
+gameswf_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1528/trunk/tu-testbed/gameswf/gameswf_types.cpp
+END
+gameswf_shape.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_shape.h
+END
+gameswf_render_handler_d3d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tu-testbed/code/!svn/ver/1573/trunk/tu-testbed/gameswf/gameswf_render_handler_d3d.cpp
+END
+gameswf_object.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1612/trunk/tu-testbed/gameswf/gameswf_object.h
+END
+gameswf_font.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1661/trunk/tu-testbed/gameswf/gameswf_font.h
+END
+gameswf_avm2_jit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1539/trunk/tu-testbed/gameswf/gameswf_avm2_jit.cpp
+END
+gameswf_filters.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1432/trunk/tu-testbed/gameswf/gameswf_filters.h
+END
+gameswf_render_handler_ogl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/gameswf/gameswf_render_handler_ogl.cpp
+END
+gameswf_dlist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1592/trunk/tu-testbed/gameswf/gameswf_dlist.cpp
+END
+gameswf_render.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1615/trunk/tu-testbed/gameswf/gameswf_render.cpp
+END
+gameswf_disasm.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1443/trunk/tu-testbed/gameswf/gameswf_disasm.h
+END
+gameswf_batch_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1686/trunk/tu-testbed/gameswf/gameswf_batch_test.py
+END
+gameswf_video_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tu-testbed/code/!svn/ver/1638/trunk/tu-testbed/gameswf/gameswf_video_impl.cpp
+END
+gameswf_sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_sound.cpp
+END
+gameswf_styles.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_styles.h
+END
+gameswf_sprite_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1654/trunk/tu-testbed/gameswf/gameswf_sprite_def.h
+END
+gameswf_text.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1661/trunk/tu-testbed/gameswf/gameswf_text.h
+END
+gameswf_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1509/trunk/tu-testbed/gameswf/gameswf_function.h
+END
+gameswf_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1475/trunk/tu-testbed/gameswf/gameswf_parser.cpp
+END
+gameswf_shape.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_shape.cpp
+END
+gameswf_stream.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1410/trunk/tu-testbed/gameswf/gameswf_stream.h
+END
+gameswf_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1610/trunk/tu-testbed/gameswf/gameswf_player.h
+END
+gameswf_character.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1656/trunk/tu-testbed/gameswf/gameswf_character.h
+END
+gameswf_movie_def.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1655/trunk/tu-testbed/gameswf/gameswf_movie_def.h
+END
+gameswf_fontlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/tu-testbed/code/!svn/ver/1661/trunk/tu-testbed/gameswf/gameswf_fontlib.h
+END
+gameswf_avm2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1621/trunk/tu-testbed/gameswf/gameswf_avm2.cpp
+END
+gameswf_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1686/trunk/tu-testbed/gameswf/gameswf_impl.h
+END
+gameswf_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1686/trunk/tu-testbed/gameswf/gameswf_object.cpp
+END
+gameswf_font.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1661/trunk/tu-testbed/gameswf/gameswf_font.cpp
+END
+gameswf_morph2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_morph2.cpp
+END
+gameswf_filters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/tu-testbed/code/!svn/ver/1510/trunk/tu-testbed/gameswf/gameswf_filters.cpp
+END
+gameswf_button.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1656/trunk/tu-testbed/gameswf/gameswf_button.cpp
+END
+gameswf_canvas.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1499/trunk/tu-testbed/gameswf/gameswf_canvas.cpp
+END
+gameswf_action.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1686/trunk/tu-testbed/gameswf/gameswf_action.cpp
+END
+gameswf_disasm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1537/trunk/tu-testbed/gameswf/gameswf_disasm.cpp
+END
+gameswf_log.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1641/trunk/tu-testbed/gameswf/gameswf_log.cpp
+END
+gameswf_freetype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/gameswf/gameswf_freetype.cpp
+END
+gameswf_dlist.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_dlist.h
+END
+gameswf_render.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1591/trunk/tu-testbed/gameswf/gameswf_render.h
+END
+gameswf_sprite_def.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tu-testbed/code/!svn/ver/1380/trunk/tu-testbed/gameswf/gameswf_sprite_def.cpp
+END
+gameswf_text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1667/trunk/tu-testbed/gameswf/gameswf_text.cpp
+END
+gameswf_listener.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1615/trunk/tu-testbed/gameswf/gameswf_listener.cpp
+END
+gameswf_abc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1542/trunk/tu-testbed/gameswf/gameswf_abc.cpp
+END
+gameswf_sound_handler_sdl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/tu-testbed/code/!svn/ver/1640/trunk/tu-testbed/gameswf/gameswf_sound_handler_sdl.cpp
+END
+gameswf_player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/tu-testbed/code/!svn/ver/1654/trunk/tu-testbed/gameswf/gameswf_player.cpp
+END
+gameswf_character.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1612/trunk/tu-testbed/gameswf/gameswf_character.cpp
+END
+gameswf_video_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1588/trunk/tu-testbed/gameswf/gameswf_video_impl.h
+END
+gameswf_render_handler_ogles.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/1664/trunk/tu-testbed/gameswf/gameswf_render_handler_ogles.cpp
+END
+build.dmb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tu-testbed/code/!svn/ver/1691/trunk/tu-testbed/gameswf/build.dmb
+END
+gameswf_environment.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1629/trunk/tu-testbed/gameswf/gameswf_environment.h
+END
+gameswf_avm2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tu-testbed/code/!svn/ver/1537/trunk/tu-testbed/gameswf/gameswf_avm2.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/tu-testbed/code/!svn/ver/904/trunk/tu-testbed/gameswf/TODO
+END
+gameswf_batch_run.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tu-testbed/code/!svn/ver/1618/trunk/tu-testbed/gameswf/gameswf_batch_run.py
+END
+gameswf_sprite.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1656/trunk/tu-testbed/gameswf/gameswf_sprite.h
+END
+gameswf_morph2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1515/trunk/tu-testbed/gameswf/gameswf_morph2.h
+END
+gameswf_jit_opcode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tu-testbed/code/!svn/ver/1457/trunk/tu-testbed/gameswf/gameswf_jit_opcode.cpp
+END
+gameswf_processor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/tu-testbed/code/!svn/ver/1502/trunk/tu-testbed/gameswf/gameswf_processor.cpp
+END
+gameswf_button.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1432/trunk/tu-testbed/gameswf/gameswf_button.h
+END
+gameswf_canvas.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1499/trunk/tu-testbed/gameswf/gameswf_canvas.h
+END
+gameswf_value.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tu-testbed/code/!svn/ver/1542/trunk/tu-testbed/gameswf/gameswf_value.h
+END
+gameswf_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1647/trunk/tu-testbed/gameswf/gameswf_action.h
+END
+gameswf_root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tu-testbed/code/!svn/ver/1683/trunk/tu-testbed/gameswf/gameswf_root.cpp
+END
+gameswf_sound_handler_openal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/tu-testbed/code/!svn/ver/1680/trunk/tu-testbed/gameswf/gameswf_sound_handler_openal.cpp
+END
